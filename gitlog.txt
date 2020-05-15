@@ -1,0 +1,317 @@
+commit 03999298d9c86029b80e67b564b9dfdf068de44d
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Fri Nov 8 16:19:58 2019 -0500
+
+    Tree.inc synced with CTree.cpp
+
+commit 593b31e4a8d9861280b977f3595eedd8e211e104
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Fri Nov 8 16:19:34 2019 -0500
+
+    == operator overloaded function enhanced
+
+commit 4664f41da8aa86e17637fa3abe722f68a61a75c5
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:58:13 2019 -0500
+
+    gitlog.txt added
+
+commit 3db8f34c63e4fc77a2d9c2dd9f89cb8274369ab7
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:56:40 2019 -0500
+
+    README updated
+
+commit df3ca4f521ef2ecee05ac1b511779a4c779bfcf7
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:46:49 2019 -0500
+
+    Tree.o tag removed, makefile working fine
+
+commit 9ef625d97a0237725f75341e4787cd8752e7e93e
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:46:02 2019 -0500
+
+    Tree.h synced and commented and wotking
+
+commit c93eae534f16f42b7a708dd23c95239573ed5141
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:45:35 2019 -0500
+
+    Tree.inc compiling and working perfectly with no memory leaks
+
+commit 06c25242f537e6c8190a707cdc18b6d7428c7e68
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 18:44:51 2019 -0500
+
+    CTree.cpp working with no memory leaks
+
+commit 0f9c13ff9a0d415c60fbdaed3296a24c69a47f4e
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:25:52 2019 -0500
+
+    added README for checking updates
+
+commit 9bced811a2d2d78ccc0831e2cd5a937989197851
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:23:31 2019 -0500
+
+    added Makefile, added all tag
+
+commit 7b3dbb9abe1caf73aff9b4b195e7e4f9c8240bf0
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:23:04 2019 -0500
+
+    giving many compilation errors
+
+commit b35f8ca89fd53041ee0017b11afdc8c5aa4a4ee9
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:22:34 2019 -0500
+
+    updated with new CTree.cpp, but giving compilation errors
+
+commit 205f036f024ebb450d482995b3f7c916d3238b34
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:21:59 2019 -0500
+
+    giving a lot of errors, check Tree.inc
+
+commit 5471e569b0cad4e039c38b96d42f36b6134300f7
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:20:44 2019 -0500
+
+    working fine but memory leaks
+
+commit 8a47b042c530b2ba584445aa1d200944a985b781
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Nov 7 03:20:12 2019 -0500
+
+    All tests passing
+
+commit a72a05a345ed726a762929109bcf9e1e1deaecbf
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Nov 6 01:20:32 2019 -0500
+
+    added Tree.inc, not compiled yet, but introduced template and typename
+
+commit 1c9e31092d1af24576f9ac7186f495f6689aeb46
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Nov 6 01:19:55 2019 -0500
+
+    added Tree.h, not compiled yet
+
+commit 3a4093c3d1e82757bd3de20be83fc401046471bf
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Nov 6 01:18:21 2019 -0500
+
+    Changed toString() by changing place of endl, changed edge cases of addSibling() slightly, still giving assertion fail in addChild
+
+commit 459289ec1b4b4377a0e27ca01d1e112351961e2d
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Nov 5 14:29:37 2019 -0500
+
+    CTreeTest.cpp added
+
+commit 734f97429f49dbc2a603245e9e538cc3eea4e30f
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Nov 5 14:29:16 2019 -0500
+
+    All functions roughly written, program compiling but toString() giving assertion fail
+
+commit 56237d9f00b8c673d19c6bc2ac9463b13eb5c339
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Nov 5 14:28:15 2019 -0500
+
+    CTree.h added
+
+commit af38ecf96def0ee449a218c202860bd7ec7d4f53
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 01:08:59 2019 -0400
+
+    README made and updated
+
+commit 4a2b1c492c0b694223d91379eb47946097895732
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 00:06:35 2019 -0400
+
+    gitlog added
+
+commit a0c80874c68a651e68b994484c00575d51220f4a
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 00:02:19 2019 -0400
+
+    Makefile working fine
+
+commit 1fd34eca01d9a915e3f57ef3ed54453f825237ef
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 00:01:48 2019 -0400
+
+    changed func names, removed all using std::, updated, everything compiling and working fine
+
+commit 581a8d8189449fb8c08000684bc2a82e2c3b0163
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 00:00:51 2019 -0400
+
+    chnaged func names to be more meaningful, added comments, everything compiling and working fine
+
+commit 0e2a3c4f7b721c864de056509538784d5c2d4030
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Thu Oct 24 00:00:05 2019 -0400
+
+    removed to_lower func, now using std::transform, everything compiling and working
+
+commit 5725f9697946877ad9494498ca384064da38c2d4
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Oct 23 13:58:21 2019 -0400
+
+    change func names once you chnage func names in digraph.cpp
+
+commit 64e6e25b70883bc2b59eb23f7b58842cc0e5bfc6
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Oct 23 13:57:50 2019 -0400
+
+    working fine, just dont forget to change func names and add comments
+
+commit c1040bcb22c0e44bc72219209139153bae7be4d3
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Oct 23 13:57:22 2019 -0400
+
+    rechecked functions but need to go through to_lower
+
+commit 9ed31e331db5397eb0c8275e47e2d6f453502368
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Oct 22 20:44:24 2019 -0400
+
+    changed map< string, int> to map<int, vector <string> >
+
+commit b5ba25b7e18c325b82d0a564a89b347ea155c89f
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Oct 22 01:24:12 2019 -0400
+
+    written rough outline of main with temporary names of functions, dont forget to check cin methos for string to int
+
+commit b0350cd77a7128fc06f90fd8b3c357abfdf601e2
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Oct 22 01:23:02 2019 -0400
+
+    included all functions but function names will have to be changed later so change in .h also
+
+commit 8e79fb0428ce047658d747cdc4fc7767083cd74a
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Tue Oct 22 01:22:02 2019 -0400
+
+    written a rough outline of functions, print according to count not written yet, not compiled yet
+
+commit 0e92f18daca6b3eb2ecdad94805b5ca2e9a55080
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:56:38 2019 -0400
+
+    fully working search_functions.h
+
+commit 239887ff802c7629bed3c261e4eb078bde6b5a45
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:56:04 2019 -0400
+
+    Functioning Makefile
+
+commit d484d11da3c1bc8c7097e5099e461443b0c474cf
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:52:32 2019 -0400
+
+    fully working test_search_functions.c
+
+commit 3801f2fbe0d48bd54c9bfe3fd32b894e48a2b7b7
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:51:38 2019 -0400
+
+    fully working word_search.c
+
+commit c9a0af441f8e2f01c244dd97228fb28d8904c1a0
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:50:49 2019 -0400
+
+    fully working search_functions.c
+
+commit 8eddc5fdf8cf7d60244f930e954ad87c87d91603
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 13:26:05 2019 -0400
+
+    search_functions.c compiled with no errors
+
+commit d2e66d198225d08fef9454a35a4381d4b7549599
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 16:40:41 2019 -0400
+
+    Complied version of word_search.c
+
+commit 4ac170fa4a7119f839e99b7aae2c17151b8250c7
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 16:39:41 2019 -0400
+
+    second compiled version of search_functions.c
+
+commit f60e0548bd562c91f3f5ed365d2e1de59e3ffb21
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 13:08:12 2019 -0400
+
+    word_search.c not compiled yet
+
+commit cf3bdb8ddc7ce144446f47009bbca74d9512419b
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 13:07:08 2019 -0400
+
+    Compiled version of search_functions.c with warning
+
+commit 63f9770d2b8bd75466717fa55c58219b9855ed1c
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Sep 11 16:06:40 2019 -0400
+
+    arithmetic.c working version
+
+commit a98d360f1c64beefe23aa792ff868f2e9ef0dc31
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Sep 11 16:00:15 2019 -0400
+
+    arithmetic.c compiled without errors
+
+commit 00c33c6bceb8f4779d3986884f53667ae4823ced
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 11 12:21:29 2019 -0400
+
+    arithmetic.c first version
+
+commit 86dbdceb9cc078b10c266ae8d2f4e127a79de6aa
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:17:44 2019 -0400
+
+    created third.c
+
+commit 9192d1c7d96d1101f1f5e98fe1c2af9bbe632ce0
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:17:06 2019 -0400
+
+    created second.c
+
+commit 9ccbba21d5277fbfb20a6c24e6a508eabd935c6e
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:10:18 2019 -0400
+
+    created first.c
+
+commit 725b11693d871f3f8ff7053086ad66d194ff5c94
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 13:22:37 2019 -0400
+
+    updated README
+
+commit 7a876b54a0d7d39d94eee99e38ed4e5e0b6f395f
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 13:18:47 2019 -0400
+
+    created README
+
+commit 220d99f60b36f2eb884c5477970942b91deaa6c8
+Author: Shreya Wadhwa <swadhwa5@jh.edu>
+Date:   Sun Sep 1 16:46:29 2019 +0000
+
+    Initial commit

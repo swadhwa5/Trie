@@ -1,0 +1,19 @@
+Name: SHREYA WADHWA
+JHED ID: swadhwa5
+
+Structure and functions:
+
+-constructor function: initialses char data and initalises prev, kids and sibs to nullptr
+-destructor function: uses recursion to delete the kids and the sibs of the CTree its called on
+-^ operator overloaded function does the same thing as addChild
+-== operator function checks if each node of the two CTrees is equal
+-addChild(char ch) character version adds a character to the tree and uses the addChild CTree verion function
+-addChild(CTree *root) add root as first child if child not present, otherwise add root as sibling to the first child in order. Alse ensures that root is not already present
+-toString():prints out the Tree in a depth first manner, has been modified slightly to const protect objects
+-<< operator overloaded function does the same thing as toString(), has been modified slightly to const protect objects
+-addSibling(char ch) adds ch as a sibling to the kid its called on, and uses addSibing CTree version to do that
+-addSibling(CTree *root) adds root as sibling to the child its called on. Checks many edge cases
+
+Template files:
+writes all the CTree.cpp functions in a way that data in each node can be of any type.
+
